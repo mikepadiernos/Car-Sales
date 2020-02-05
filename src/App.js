@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+// Import App components
 import Header from './components/Header';
 import AddedFeatures from './components/AddedFeatures';
 import AdditionalFeatures from './components/AdditionalFeatures';
